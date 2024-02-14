@@ -2,7 +2,7 @@
 
 A MongoDB database for NBA stats.
 
-# How to run
+## How to run
 
 1. Set the current working directory
 2. From the MongoDB shell, execute the `creation.js` file: `load("creation.js")`
